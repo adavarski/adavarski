@@ -1,5 +1,3 @@
-### Hi there,  
-
 #### About me : https://adavarski.github.io
 
 <!--
