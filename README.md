@@ -1,4 +1,4 @@
-#### About me : https://adavarski.github.io
+#### ABOUT ME : https://adavarski.github.io
 ![contributions](https://user-images.githubusercontent.com/42774466/204395009-b8a9cc14-976b-4cf7-a2d9-ec466422605f.svg)
 
 
