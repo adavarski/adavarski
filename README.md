@@ -1,4 +1,4 @@
-#### https://adavarski.github.io
+#### My acrylic paintings: https://adavarski.github.io
 
 <!--
 **adavarski/adavarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
