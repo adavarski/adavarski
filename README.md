@@ -15,13 +15,13 @@
 - [k8s CI/CD](https://github.com/adavarski/k3d-cicd-playground)
 - [Jenkins (dev env)](https://github.com/adavarski/jenkins-dev-environment)
 
-### HashiCorp Terraform (IaC:k8s);
+### HashiCorp Terraform (IaC:k8s):
 - [AWS EKS](https://github.com/adavarski/AWS-EKS-Terraform)
 - [GCP GKE](https://github.com/adavarski/GCP-GKE-terraform-demo)
 - [VMWare + k8s](https://github.com/adavarski/k8s-vmware-terraform-kubespray)
 - [Proxmox + k8s](https://github.com/adavarski/proxmox-terraform-k8s)
 
-### Crossplane (IaC:k8s)
+### Crossplane (IaC:k8s):
 - https://github.com/adavarski/k3d-crossplane-vcluster 
 - https://github.com/adavarski/k3d-crossplane-vcluster-playground
 
@@ -38,7 +38,7 @@
 - https://github.com/adavarski/docker-owasp-depcheck
 - https://github.com/adavarski/python-network-hacks
 
-### Example k8s apps
+### Example k8s apps:
 - https://github.com/adavarski/k3d-node-app-example
 - https://github.com/adavarski/kind-python-app-example
 - https://github.com/adavarski/kind-registry-nginx-app-example
@@ -60,15 +60,15 @@
 - https://github.com/adavarski/k8s-operators-playground
 - https://github.com/adavarski/k8s-mariadb-ansible-operator
 
-### MLOps
+### MLOps:
 - https://github.com/adavarski/k8s-UAP
 - https://github.com/adavarski/Databricks-Snowflake-ML-playground
 
-### Openshift
+### Openshift:
 - https://github.com/adavarski/OpenShift4-CRC-development
 - https://github.com/adavarski/ocp4-vmware-terraform-lab
 
-### Docker
+### Docker:
 - https://github.com/adavarski/docker-prometheus
 - https://github.com/adavarski/docker-smokeping-rrdtool
 - https://github.com/adavarski/oracle12c-r2-ee
@@ -76,7 +76,7 @@
 - https://github.com/adavarski/onlineshop-php-laravel-docker
 - https://github.com/adavarski/docker-bigdata-playground
 
-### Ansible (+ Vault)
+### Ansible (+ Vault):
 - https://github.com/adavarski/vault-ansible
 - https://github.com/adavarski/vagrant-haproxy-consul-template
 - https://github.com/adavarski/vagrant-ansible-hadoop-spark
