@@ -1,4 +1,5 @@
-[argocd](https://github.com/adavarski/homelab)
+[ArgoCD](https://github.com/adavarski/homelab)
+[FluxCD](https://github.com/adavarski/homelab-flux)
 <!--
 **adavarski/adavarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
