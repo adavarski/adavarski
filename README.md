@@ -2,6 +2,11 @@
 - [ArgoCD](https://github.com/adavarski/homelab)
 - [FluxCD](https://github.com/adavarski/homelab-flux)
 - [ArgoCD+GH Actions](https://github.com/adavarski/ArgoCD-GitOps-playground)
+
+Public Clouds:
+- [AWS](https://github.com/adavarski/DevOps-AWS-demo)
+- [GCP](
+- [Azu
 <!--
 **adavarski/adavarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
