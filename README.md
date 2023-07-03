@@ -1,3 +1,4 @@
+GitOps:
 - [ArgoCD](https://github.com/adavarski/homelab)
 - [FluxCD](https://github.com/adavarski/homelab-flux)
 <!--
