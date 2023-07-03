@@ -1,4 +1,4 @@
-## DevOps/DevSecOps/MLOps/GitOps/Platform playgrounds/labs/demos/etc.
+## DevOps/GitOps/Platform playgrounds/labs/demos/etc.
 
 ### GitOps (k8s):
 - [ArgoCD (homelab)](https://github.com/adavarski/homelab)
