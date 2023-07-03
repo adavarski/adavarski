@@ -38,15 +38,6 @@
 - https://github.com/adavarski/docker-owasp-depcheck
 - https://github.com/adavarski/python-network-hacks
 
-### Various (HashiCorp Vault, Istio, VCluster, k8s Operators, etc.):
-- https://github.com/adavarski/k8s-vault-secrets
-- https://github.com/adavarski/k8s-vault-auth-go
-- https://github.com/adavarski/gitlab-vault-demo
-- https://github.com/adavarski/istio-k3d
-- https://github.com/adavarski/k3d-argo-vclusters-playground
-- https://github.com/adavarski/k8s-operators-playground
-- https://github.com/adavarski/k8s-mariadb-ansible-operator
-
 ### Example k8s apps
 - https://github.com/adavarski/k3d-node-app-example
 - https://github.com/adavarski/kind-python-app-example
@@ -59,6 +50,15 @@
 - https://github.com/adavarski/GitLab-microservices-k8s
 - https://github.com/adavarski/microservices-python-k8s-playground
 - https://github.com/adavarski/MERN-microservices-k8s-playground
+
+### Various (HashiCorp Vault, Istio, VCluster, k8s Operators, etc.):
+- https://github.com/adavarski/k8s-vault-secrets
+- https://github.com/adavarski/k8s-vault-auth-go
+- https://github.com/adavarski/gitlab-vault-demo
+- https://github.com/adavarski/istio-k3d
+- https://github.com/adavarski/k3d-argo-vclusters-playground
+- https://github.com/adavarski/k8s-operators-playground
+- https://github.com/adavarski/k8s-mariadb-ansible-operator
 
 ### MLOps
 - https://github.com/adavarski/k8s-UAP
