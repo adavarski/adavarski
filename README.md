@@ -15,17 +15,17 @@
 - [GitLab + k8s (dev env)](https://github.com/adavarski/k3s-GitLab-development)
 - [Jenkins (dev env)](https://github.com/adavarski/jenkins-dev-environment)
 
-### HashiCorp Terraform (IaC:k8s):
+### HashiCorp Terraform (IaC -> k8s):
 - [AWS EKS](https://github.com/adavarski/AWS-EKS-Terraform)
 - [GCP GKE](https://github.com/adavarski/GCP-GKE-terraform-demo)
 - [VMWare + k8s](https://github.com/adavarski/k8s-vmware-terraform-kubespray)
 - [Proxmox + k8s](https://github.com/adavarski/proxmox-terraform-k8s)
 
-### Crossplane (IaC:k8s):
+### Crossplane (IaC -> k8s):
 - https://github.com/adavarski/k3d-crossplane-vcluster 
 - https://github.com/adavarski/k3d-crossplane-vcluster-playground
 
-### Public Clouds (Demos:VM & k8s):
+### Public Clouds (Demos -> VM & k8s):
 - [AWS demo](https://github.com/adavarski/DevOps-AWS-demo)
 - [GCP demo](https://github.com/adavarski/DevOps-GCP-demo)
 - [Azure demo](https://github.com/adavarski/DevOps-AZURE-demo)
