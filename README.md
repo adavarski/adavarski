@@ -1,6 +1,6 @@
 ### GitOps (k8s):
 ### =============
-- [ArgoCD](https://github.com/adavarski/homelab
+- [ArgoCD](https://github.com/adavarski/homelab)
 - [FluxCD](https://github.com/adavarski/homelab-flux)
 - [GH Actions](https://github.com/adavarski/k3d-GH-Actions)
 - [GH Actions + ArgoCD](https://github.com/adavarski/ArgoCD-GitOps-playground)
