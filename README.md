@@ -11,8 +11,8 @@
 
 ### GitLab/Jenkins CI/CD (k8s):
 - [GitLab + k8s](https://github.com/adavarski/gitlab-cicd-k8s)
-- [GitLab + k8s (dev env)](https://github.com/adavarski/k3s-GitLab-development)
 - [k8s CI/CD (Jekins,GitLab,etc.)](https://github.com/adavarski/k3d-cicd-playground)
+- [GitLab + k8s (dev env)](https://github.com/adavarski/k3s-GitLab-development)
 - [Jenkins (dev env)](https://github.com/adavarski/jenkins-dev-environment)
 
 ### HashiCorp Terraform (IaC:k8s):
