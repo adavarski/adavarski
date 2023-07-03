@@ -7,8 +7,7 @@
 - [GH Actions + ArgoCD](https://github.com/adavarski/ArgoCD-GitOps-playground)
 - [Tekton + ArgoCD + Java](https://github.com/adavarski/gitops-k3d-tekton-argocd) 
 - [Tekton + ArgoCD + Go](https://github.com/adavarski/GitOps-k3d-Tekton-ArgoCD-Go)
-- [Skaffold+Kustomize](https://github.com/adavarski/k3d-skaffold-kustomize-demo)
-
+- [Skaffold + Kustomize](https://github.com/adavarski/k3d-skaffold-kustomize-demo)
 
 ### GitLab/Jenkins CI/CD (k8s):
 - [GitLab](https://github.com/adavarski/gitlab-cicd-k8s)
@@ -20,7 +19,7 @@
 - [VMWare + k8s](https://github.com/adavarski/k8s-vmware-terraform-kubespray)
 - [Proxmox + k8s](https://github.com/adavarski/proxmox-terraform-k8s)
 
-### Crossplane (IaC:k8s, Note: terraform & pulumi alternative)
+### Crossplane (IaC:k8s)
 - https://github.com/adavarski/k3d-crossplane-vcluster 
 - https://github.com/adavarski/k3d-crossplane-vcluster-playground
 
@@ -29,12 +28,12 @@
 - [GCP demo](https://github.com/adavarski/DevOps-GCP-demo)
 - [Azure demo](https://github.com/adavarski/DevOps-AZURE-demo)
 
-### DevSecOps (& k8s Sec):
+### DevSecOps (+ k8s Security):
 - https://github.com/adavarski/HomeLab-k8s-DevSecOps-playground
 - https://github.com/adavarski/DevSecOps-full-integration-chain
 - https://github.com/adavarski/DevSecOps-pipeline-python
 
-### Various (HashiCorp Vault, Istio, vcluster, etc.):
+### Various (HashiCorp Vault, Istio, VCluster, etc.):
 - https://github.com/adavarski/k8s-vault-secrets
 - https://github.com/adavarski/k8s-vault-auth-go
 - https://github.com/adavarski/gitlab-vault-demo
