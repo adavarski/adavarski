@@ -1,4 +1,4 @@
-[devops playgrounds](adavarski.github.io)
+[argocd](https://github.com/adavarski/homelab)
 <!--
 **adavarski/adavarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
