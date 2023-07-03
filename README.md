@@ -35,6 +35,7 @@
 - https://github.com/adavarski/HomeLab-k8s-DevSecOps-playground
 - https://github.com/adavarski/DevSecOps-full-integration-chain
 - https://github.com/adavarski/DevSecOps-pipeline-python
+- https://github.com/adavarski/docker-owasp-depcheck
 - https://github.com/adavarski/python-network-hacks
 
 ### Various (HashiCorp Vault, Istio, VCluster, k8s Operators, etc.):
@@ -71,6 +72,7 @@
 - https://github.com/adavarski/docker-prometheus
 - https://github.com/adavarski/docker-smokeping-rrdtool
 - https://github.com/adavarski/oracle12c-r2-ee
+- https://github.com/adavarski/docker-postgresql-ha-patroni-consul-zookeeper
 - https://github.com/adavarski/onlineshop-php-laravel-docker
 - https://github.com/adavarski/docker-bigdata-playground
 
@@ -78,8 +80,11 @@
 - https://github.com/adavarski/vault-ansible
 - https://github.com/adavarski/vagrant-haproxy-consul-template
 - https://github.com/adavarski/vagrant-ansible-hadoop-spark
+- https://github.com/adavarski/vagrant-ansible-postgresql-ha-patroni-consul
 - https://github.com/adavarski/zabbix-ansible
 - https://github.com/adavarski/postgres-ha
+- https://github.com/adavarski/Hashicorp-Nomad-Consul-Ansible
+
 
 <!--
 **adavarski/adavarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
