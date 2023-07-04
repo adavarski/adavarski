@@ -11,7 +11,7 @@
 
 ### GitLab/Jenkins CI/CD (k8s):
 - [GitLab + k8s](https://github.com/adavarski/gitlab-cicd-k8s)
-- [k8s CI/CD (Jekins,GitLab,etc.)](https://github.com/adavarski/k3d-cicd-playground)
+- [k8s CI/CD (Jekins,GitLab,GH Actions)](https://github.com/adavarski/k3d-cicd-playground)
 - [GitLab + k8s (dev env)](https://github.com/adavarski/k3s-GitLab-development)
 - [Jenkins (dev env)](https://github.com/adavarski/jenkins-dev-environment)
 
@@ -39,7 +39,7 @@
 - https://github.com/adavarski/docker-owasp-depcheck
 - https://github.com/adavarski/python-network-hacks
 
-### Example k8s apps:
+### Example k8s apps (KinD,k3d):
 - https://github.com/adavarski/k3d-node-app-example
 - https://github.com/adavarski/kind-python-app-example
 - https://github.com/adavarski/kind-registry-nginx-app-example
