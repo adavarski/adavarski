@@ -1,6 +1,6 @@
 ### DevOps/GitOps/Platform playgrounds/labs/demos/etc.
 
-#### GitOps (k8s):
+### GitOps (k8s):
 - [ArgoCD (homelab)](https://github.com/adavarski/homelab)
 - [FluxCD (homelab)](https://github.com/adavarski/homelab-flux)
 - [GitHub Actions](https://github.com/adavarski/k3d-GH-Actions)
