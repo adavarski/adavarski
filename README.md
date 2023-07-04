@@ -39,7 +39,7 @@
 - https://github.com/adavarski/docker-owasp-depcheck
 - https://github.com/adavarski/python-network-hacks
 
-### Example k8s apps (KinD,k3d):
+### Example k8s apps (KinD & k3d):
 - https://github.com/adavarski/k3d-node-app-example
 - https://github.com/adavarski/kind-python-app-example
 - https://github.com/adavarski/kind-registry-nginx-app-example
