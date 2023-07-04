@@ -76,7 +76,7 @@
 - https://github.com/adavarski/onlineshop-php-laravel-docker
 - https://github.com/adavarski/docker-bigdata-playground
 
-### Ansible (+ Vault):
+### Ansible (+ Vagrant):
 - https://github.com/adavarski/vault-ansible
 - https://github.com/adavarski/vagrant-haproxy-consul-template
 - https://github.com/adavarski/vagrant-ansible-hadoop-spark
