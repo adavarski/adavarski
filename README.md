@@ -29,7 +29,7 @@
 - [AWS demo](https://github.com/adavarski/DevOps-AWS-demo)
 - [GCP demo](https://github.com/adavarski/DevOps-GCP-demo)
 - [Azure demo](https://github.com/adavarski/DevOps-AZURE-demo)
-- [OCI OKE](https://github.com/adavarski/OCI-Terraform-OKE-k8s-demo)
+- [OCI (OKE)](https://github.com/adavarski/OCI-Terraform-OKE-k8s-demo)
 - [Hetzner](https://github.com/adavarski/Hetzner-Case-Study)
 
 ### DevSecOps (+ k8s Security):
