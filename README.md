@@ -59,7 +59,6 @@
    + https://github.com/adavarski/HomeLab-k8s-DevSecOps-playground
    + https://github.com/adavarski/DevSecOps-full-integration-chain
    + https://github.com/adavarski/DevSecOps-pipeline-python
-   + https://github.com/adavarski/docker-owasp-depcheck
    + https://github.com/adavarski/python-network-hacks
 </details>
 
