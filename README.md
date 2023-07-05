@@ -1,16 +1,5 @@
-<details>
-<summary>TOC</summary>
-<!--All you need is a blank line-->
 
-    + markdown list 1
-        + nested list 1
-        + nested list 2
-    + markdown list 2
-</details>
-
-
-
-#### DevOps/GitOps/Infrastructure/Platform playgrounds/labs/demos/etc.
+#### TOC (DevOps/GitOps/Infrastructure/Platform playgrounds/labs/demos/etc.)
 
 <details>
 <summary>GitOps (k8s):</summary>
