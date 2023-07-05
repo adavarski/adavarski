@@ -62,7 +62,7 @@
 </details>
 
 <details>
-<summary>HashiCorp Vault</summary>
+<summary>HashiCorp Vault (Security)</summary>
 <!--All you need is a blank line-->
 
    + https://github.com/adavarski/k8s-vault-secrets
@@ -71,7 +71,7 @@
 </details>
 
 <details>
-<summary>Various (Istio, k8s VCluster, etc.)</summary>
+<summary>Various (Istio, k8s VCluster, etc. (Security))</summary>
 <!--All you need is a blank line-->
     
    + https://github.com/adavarski/istio-k3d
@@ -95,7 +95,7 @@
 </details>
 
 <details>
-<summary>Openshift</summary>
+<summary>Openshift (PaaS)</summary>
 <!--All you need is a blank line-->
 
    + https://github.com/adavarski/OpenShift4-CRC-development
@@ -105,6 +105,7 @@
 <details>
 <summary>Example k8s apps (KinD, k3d, minikube local dev envs + Skaffold)</summary>
 <!--All you need is a blank line-->
+    
    + https://github.com/adavarski/k3d-skaffold-kustomize-demo
    + https://github.com/adavarski/k3d-node-app-example
    + https://github.com/adavarski/kind-python-app-example
