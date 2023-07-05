@@ -1,5 +1,5 @@
 
-DevOps/GitOps/Infrastructure/Platform playgrounds/labs/demos/etc.
+#### Playgrounds/labs/demos/etc.
 
 <details>
 <summary>GitOps (k8s):</summary>
