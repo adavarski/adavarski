@@ -19,7 +19,7 @@
 <!--All you need is a blank line-->
     
    + [GitLab + k8s](https://github.com/adavarski/gitlab-cicd-k8s)
-   + [k8s CI/CD (Jekins,GitLab,GH Actions)](https://github.com/adavarski/k3d-cicd-playground)
+   + [k8s CI/CD (Jekins, GitLab, GH Actions)](https://github.com/adavarski/k3d-cicd-playground)
    + [GitLab + k8s (dev env)](https://github.com/adavarski/k3s-GitLab-development)
    + [Jenkins (dev env)](https://github.com/adavarski/jenkins-dev-environment)
 </details>
