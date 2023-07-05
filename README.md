@@ -64,14 +64,26 @@
 </details>
 
 <details>
-<summary>Various (HashiCorp Vault, Istio, VCluster, k8s Operators, etc.)</summary>
+<summary>HashiCorp Vault</summary>
 <!--All you need is a blank line-->
-    
+
    + https://github.com/adavarski/k8s-vault-secrets
    + https://github.com/adavarski/k8s-vault-auth-go
    + https://github.com/adavarski/gitlab-vault-demo
+</details>
+
+<details>
+<summary>Various (Istio, k8s VCluster)</summary>
+<!--All you need is a blank line-->
+    
    + https://github.com/adavarski/istio-k3d
    + https://github.com/adavarski/k3d-argo-vclusters-playground
+</details>
+
+<details>
+<summary>k8s Operators</summary>
+<!--All you need is a blank line-->
+    
    + https://github.com/adavarski/k8s-operators-playground
    + https://github.com/adavarski/k8s-mariadb-ansible-operator
 </details>
@@ -93,7 +105,7 @@
 </details>
 
 <details>
-<summary>Example k8s apps (KinD, k3d, minikube)</summary>
+<summary>Example k8s apps (KinD, k3d, minikube envs)</summary>
 <!--All you need is a blank line-->
     
    + https://github.com/adavarski/k3d-node-app-example
