@@ -25,21 +25,15 @@
    + [Skaffold + Kustomize](https://github.com/adavarski/k3d-skaffold-kustomize-demo)
 </details>
 
-
-### GitOps (k8s):
-- [ArgoCD (homelab)](https://github.com/adavarski/homelab)
-- [FluxCD (homelab)](https://github.com/adavarski/homelab-flux)
-- [GitHub Actions](https://github.com/adavarski/k3d-GH-Actions)
-- [GitHub Actions + ArgoCD](https://github.com/adavarski/ArgoCD-GitOps-playground)
-- [Tekton + ArgoCD + Java](https://github.com/adavarski/gitops-k3d-tekton-argocd) 
-- [Tekton + ArgoCD + Go](https://github.com/adavarski/GitOps-k3d-Tekton-ArgoCD-Go)
-- [Skaffold + Kustomize](https://github.com/adavarski/k3d-skaffold-kustomize-demo)
-
-### GitLab/Jenkins CI/CD (k8s):
-- [GitLab + k8s](https://github.com/adavarski/gitlab-cicd-k8s)
-- [k8s CI/CD (Jekins,GitLab,GH Actions)](https://github.com/adavarski/k3d-cicd-playground)
-- [GitLab + k8s (dev env)](https://github.com/adavarski/k3s-GitLab-development)
-- [Jenkins (dev env)](https://github.com/adavarski/jenkins-dev-environment)
+<details>
+<summary>GitLab/Jenkins CI/CD (k8s):</summary>
+<!--All you need is a blank line-->
+    
+   + [GitLab + k8s](https://github.com/adavarski/gitlab-cicd-k8s)
+   + [k8s CI/CD (Jekins,GitLab,GH Actions)](https://github.com/adavarski/k3d-cicd-playground)
+   + [GitLab + k8s (dev env)](https://github.com/adavarski/k3s-GitLab-development)
+   + [Jenkins (dev env)](https://github.com/adavarski/jenkins-dev-environment)
+</details>
 
 ### HashiCorp Terraform (IaC -> k8s):
 - [AWS EKS](https://github.com/adavarski/AWS-EKS-Terraform)
