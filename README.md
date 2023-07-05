@@ -2,7 +2,7 @@
 #### Playgrounds/labs/demos/etc.
 
 <details>
-<summary>GitOps (k8s):</summary>
+<summary>GitOps (k8s)</summary>
 <!--All you need is a blank line-->
     
    + [ArgoCD (homelab)](https://github.com/adavarski/homelab)
@@ -15,7 +15,7 @@
 </details>
 
 <details>
-<summary>GitLab/Jenkins CI/CD (k8s):</summary>
+<summary>GitLab/Jenkins CI/CD (k8s)</summary>
 <!--All you need is a blank line-->
     
    + [GitLab + k8s](https://github.com/adavarski/gitlab-cicd-k8s)
@@ -25,7 +25,7 @@
 </details>
 
 <details>
-<summary>HashiCorp Terraform (IaC -> k8s):</summary>
+<summary>HashiCorp Terraform (IaC -> k8s)</summary>
 <!--All you need is a blank line-->
     
    + [AWS EKS](https://github.com/adavarski/AWS-EKS-Terraform)
@@ -35,14 +35,14 @@
 </details>
    
 <details>
-<summary>Crossplane (IaC -> k8s):</summary>
+<summary>Crossplane (IaC -> k8s)</summary>
 
    + https://github.com/adavarski/k3d-crossplane-vcluster
    + https://github.com/adavarski/k3d-crossplane-vcluster-playground
 </details>
 
 <details>
-<summary>Public Clouds (Demos -> VM & k8s):</summary>
+<summary>Public Clouds (Demos -> VM & k8s)</summary>
 <!--All you need is a blank line-->
     
    + [AWS demo](https://github.com/adavarski/DevOps-AWS-demo)
@@ -53,7 +53,7 @@
 </details>
 
 <details>
-<summary>DevSecOps (+ k8s Security):</summary>
+<summary>DevSecOps (+ k8s Security)</summary>
 <!--All you need is a blank line-->
 
    + https://github.com/adavarski/HomeLab-k8s-DevSecOps-playground
@@ -64,7 +64,7 @@
 </details>
 
 <details>
-<summary>Example k8s apps (KinD & k3d):</summary>
+<summary>Example k8s apps (KinD & k3d)</summary>
 <!--All you need is a blank line-->
     
    + https://github.com/adavarski/k3d-node-app-example
@@ -81,7 +81,7 @@
 </details>
 
 <details>
-<summary>Various (HashiCorp Vault, Istio, VCluster, k8s Operators, etc.):</summary>
+<summary>Various (HashiCorp Vault, Istio, VCluster, k8s Operators, etc.)</summary>
 <!--All you need is a blank line-->
     
    + https://github.com/adavarski/k8s-vault-secrets
@@ -94,7 +94,7 @@
 </details>
 
 <details>
-<summary>MLOps:</summary>
+<summary>MLOps</summary>
 <!--All you need is a blank line-->
     
   + https://github.com/adavarski/k8s-UAP
@@ -102,7 +102,7 @@
 </details>
 
 <details>
-<summary>Openshift:</summary>
+<summary>Openshift</summary>
 <!--All you need is a blank line-->
 
    + https://github.com/adavarski/OpenShift4-CRC-development
@@ -110,7 +110,7 @@
 </details>
 
 <details>
-<summary>Docker:</summary>
+<summary>Docker</summary>
 <!--All you need is a blank line-->
 
    +  https://github.com/adavarski/docker-prometheus
@@ -122,7 +122,7 @@
 </details>
 
 <details>
-<summary>Ansible (+ Vagrant):</summary>
+<summary>Ansible (+ Vagrant)</summary>
 <!--All you need is a blank line-->
     
    + https://github.com/adavarski/vault-ansible
