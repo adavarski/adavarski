@@ -71,11 +71,12 @@
 </details>
 
 <details>
-<summary>Various (Istio, Keycloak, k8s VCluster, etc.)</summary>
+<summary>Various (Istio, Keycloak, Kong API gateway, k8s VCluster, etc.)</summary>
 <!--All you need is a blank line-->
     
    + https://github.com/adavarski/istio-k3d
    + https://github.com/adavarski/kind-keycloak-playground
+   + https://github.com/adavarski/kind-kong-gateway-playground
    + https://github.com/adavarski/k3d-argo-vclusters-playground
 </details>
 
