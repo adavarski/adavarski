@@ -11,7 +11,6 @@
    + [GitHub Actions + ArgoCD](https://github.com/adavarski/ArgoCD-GitOps-playground)
    + [Tekton + ArgoCD + Java](https://github.com/adavarski/gitops-k3d-tekton-argocd) 
    + [Tekton + ArgoCD + Go](https://github.com/adavarski/GitOps-k3d-Tekton-ArgoCD-Go)
-   + [Skaffold + Kustomize](https://github.com/adavarski/k3d-skaffold-kustomize-demo)
 </details>
 
 <details>
@@ -104,9 +103,9 @@
 </details>
 
 <details>
-<summary>Example k8s apps (KinD, k3d, minikube envs)</summary>
+<summary>Example k8s apps (KinD, k3d, minikube local dev envs + Skaffold)</summary>
 <!--All you need is a blank line-->
-    
+   + [Skaffold + Kustomize](https://github.com/adavarski/k3d-skaffold-kustomize-demo)
    + https://github.com/adavarski/k3d-node-app-example
    + https://github.com/adavarski/kind-python-app-example
    + https://github.com/adavarski/kind-registry-nginx-app-example
