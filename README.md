@@ -1,5 +1,5 @@
 
-#### Playgrounds/labs/demos/etc.
+### Playgrounds/labs/demos/etc.
 
 <details>
 <summary>GitOps -> k8s (ArgoCD, FluxCD, Tekton, GitHub Actions) </summary>
