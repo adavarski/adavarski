@@ -14,13 +14,13 @@
 
 <details>
 <summary>### GitOps (k8s):</summary>
-- [ArgoCD (homelab)](https://github.com/adavarski/homelab)
-- [FluxCD (homelab)](https://github.com/adavarski/homelab-flux)
-- [GitHub Actions](https://github.com/adavarski/k3d-GH-Actions)
-- [GitHub Actions + ArgoCD](https://github.com/adavarski/ArgoCD-GitOps-playground)
-- [Tekton + ArgoCD + Java](https://github.com/adavarski/gitops-k3d-tekton-argocd) 
-- [Tekton + ArgoCD + Go](https://github.com/adavarski/GitOps-k3d-Tekton-ArgoCD-Go)
-- [Skaffold + Kustomize](https://github.com/adavarski/k3d-skaffold-kustomize-demo)
+   + [ArgoCD (homelab)](https://github.com/adavarski/homelab)
+   + [FluxCD (homelab)](https://github.com/adavarski/homelab-flux)
+   + [GitHub Actions](https://github.com/adavarski/k3d-GH-Actions)
+   + [GitHub Actions + ArgoCD](https://github.com/adavarski/ArgoCD-GitOps-playground)
+   + [Tekton + ArgoCD + Java](https://github.com/adavarski/gitops-k3d-tekton-argocd) 
+   + [Tekton + ArgoCD + Go](https://github.com/adavarski/GitOps-k3d-Tekton-ArgoCD-Go)
+   + [Skaffold + Kustomize](https://github.com/adavarski/k3d-skaffold-kustomize-demo)
 </details>
 
 
