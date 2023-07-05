@@ -10,7 +10,7 @@
 
 
 
-### DevOps/GitOps/Infrastructure/Platform playgrounds/labs/demos/etc.
+#### DevOps/GitOps/Infrastructure/Platform playgrounds/labs/demos/etc.
 
 <details>
 <summary>GitOps (k8s):</summary>
@@ -35,29 +35,43 @@
    + [Jenkins (dev env)](https://github.com/adavarski/jenkins-dev-environment)
 </details>
 
-### HashiCorp Terraform (IaC -> k8s):
-- [AWS EKS](https://github.com/adavarski/AWS-EKS-Terraform)
-- [GCP GKE](https://github.com/adavarski/GCP-GKE-terraform-demo)
-- [VMWare + k8s](https://github.com/adavarski/k8s-vmware-terraform-kubespray)
-- [Proxmox + k8s](https://github.com/adavarski/proxmox-terraform-k8s)
+<details>
+<summary>HashiCorp Terraform (IaC -> k8s):</summary>
+<!--All you need is a blank line-->
+    
+   + [AWS EKS](https://github.com/adavarski/AWS-EKS-Terraform)
+   + GCP GKE](https://github.com/adavarski/GCP-GKE-terraform-demo)
+   + [VMWare + k8s](https://github.com/adavarski/k8s-vmware-terraform-kubespray)
+   + [Proxmox + k8s](https://github.com/adavarski/proxmox-terraform-k8s)
+</details>
+   
+<details>
+<summary>Crossplane (IaC -> k8s):</summary>
 
-### Crossplane (IaC -> k8s):
-- https://github.com/adavarski/k3d-crossplane-vcluster 
-- https://github.com/adavarski/k3d-crossplane-vcluster-playground
+   + https://github.com/adavarski/k3d-crossplane-vcluster
+   + https://github.com/adavarski/k3d-crossplane-vcluster-playground
+</details>
 
-### Public Clouds (Demos -> VM & k8s):
-- [AWS demo](https://github.com/adavarski/DevOps-AWS-demo)
-- [GCP demo](https://github.com/adavarski/DevOps-GCP-demo)
-- [Azure demo](https://github.com/adavarski/DevOps-AZURE-demo)
-- [OCI (OKE)](https://github.com/adavarski/OCI-Terraform-OKE-k8s-demo)
-- [Hetzner](https://github.com/adavarski/Hetzner-Case-Study)
+<details>
+<summary>Public Clouds (Demos -> VM & k8s):</summary>
+<!--All you need is a blank line-->
+    
+   + [AWS demo](https://github.com/adavarski/DevOps-AWS-demo)
+   + [GCP demo](https://github.com/adavarski/DevOps-GCP-demo)
+   + [Azure demo](https://github.com/adavarski/DevOps-AZURE-demo)
+   + [OCI (OKE)](https://github.com/adavarski/OCI-Terraform-OKE-k8s-demo)
+   + [Hetzner](https://github.com/adavarski/Hetzner-Case-Study)
+</details>
 
-### DevSecOps (+ k8s Security):
-- https://github.com/adavarski/HomeLab-k8s-DevSecOps-playground
-- https://github.com/adavarski/DevSecOps-full-integration-chain
-- https://github.com/adavarski/DevSecOps-pipeline-python
-- https://github.com/adavarski/docker-owasp-depcheck
-- https://github.com/adavarski/python-network-hacks
+<details>
+<summary>DevSecOps (+ k8s Security):</summary>
+
+    + https://github.com/adavarski/HomeLab-k8s-DevSecOps-playground
+    + https://github.com/adavarski/DevSecOps-full-integration-chain
+    + https://github.com/adavarski/DevSecOps-pipeline-python
+    + https://github.com/adavarski/docker-owasp-depcheck
+    + https://github.com/adavarski/python-network-hacks
+</details>
 
 ### Example k8s apps (KinD & k3d):
 - https://github.com/adavarski/k3d-node-app-example
