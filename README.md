@@ -64,23 +64,6 @@
 </details>
 
 <details>
-<summary>Example k8s apps (KinD, k3d, minikube)</summary>
-<!--All you need is a blank line-->
-    
-   + https://github.com/adavarski/k3d-node-app-example
-   + https://github.com/adavarski/kind-python-app-example
-   + https://github.com/adavarski/kind-registry-nginx-app-example
-   + https://github.com/adavarski/kind-python-microservices-app-example
-   + https://github.com/adavarski/nameko-microservices-CICD-k8s
-   + https://github.com/adavarski/gRPC-go-k8s-example
-   + https://github.com/adavarski/REST-go-k8s-example
-   + https://github.com/adavarski/proglog
-   + https://github.com/adavarski/GitLab-microservices-k8s
-   + https://github.com/adavarski/microservices-python-k8s-playground
-   + https://github.com/adavarski/MERN-microservices-k8s-playground
-</details>
-
-<details>
 <summary>Various (HashiCorp Vault, Istio, VCluster, k8s Operators, etc.)</summary>
 <!--All you need is a blank line-->
     
@@ -107,6 +90,23 @@
 
    + https://github.com/adavarski/OpenShift4-CRC-development
    + https://github.com/adavarski/ocp4-vmware-terraform-lab
+</details>
+
+<details>
+<summary>Example k8s apps (KinD, k3d, minikube)</summary>
+<!--All you need is a blank line-->
+    
+   + https://github.com/adavarski/k3d-node-app-example
+   + https://github.com/adavarski/kind-python-app-example
+   + https://github.com/adavarski/kind-registry-nginx-app-example
+   + https://github.com/adavarski/kind-python-microservices-app-example
+   + https://github.com/adavarski/nameko-microservices-CICD-k8s
+   + https://github.com/adavarski/gRPC-go-k8s-example
+   + https://github.com/adavarski/REST-go-k8s-example
+   + https://github.com/adavarski/proglog
+   + https://github.com/adavarski/GitLab-microservices-k8s
+   + https://github.com/adavarski/microservices-python-k8s-playground
+   + https://github.com/adavarski/MERN-microservices-k8s-playground
 </details>
 
 <details>
