@@ -42,7 +42,7 @@
 </details>
 
 <details>
-<summary>Public Clouds (Demos -> VM & k8s)</summary>
+<summary>Public Clouds (Demos -> VMs & k8s)</summary>
 <!--All you need is a blank line-->
     
    + [AWS demo](https://github.com/adavarski/DevOps-AWS-demo)
