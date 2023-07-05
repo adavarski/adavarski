@@ -72,7 +72,7 @@
 </details>
 
 <details>
-<summary>Various (Istio, k8s VCluster)</summary>
+<summary>Various (Istio, k8s VCluster, etc.)</summary>
 <!--All you need is a blank line-->
     
    + https://github.com/adavarski/istio-k3d
