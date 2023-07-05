@@ -13,7 +13,8 @@
 ### DevOps/GitOps/Infrastructure/Platform playgrounds/labs/demos/etc.
 
 <details>
-<summary>**GitOps (k8s):**</summary>
+<summary>GitOps (k8s):</summary>
+=================================    
 <!--All you need is a blank line-->
    
    + [ArgoCD (homelab)](https://github.com/adavarski/homelab)
