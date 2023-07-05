@@ -1,5 +1,5 @@
 <details>
-<summary>Heading</summary>
+<summary>TOC</summary>
 <!--All you need is a blank line-->
 
     + markdown list 1
