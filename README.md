@@ -64,7 +64,7 @@
 </details>
 
 <details>
-<summary>Example k8s apps (KinD & k3d)</summary>
+<summary>Example k8s apps (KinD, k3d, minikube)</summary>
 <!--All you need is a blank line-->
     
    + https://github.com/adavarski/k3d-node-app-example
