@@ -4,7 +4,6 @@
 <details>
 <summary>GitOps -> k8s (ArgoCD, FluxCD, Tekton, GitHub Actions) </summary>
 <!--All you need is a blank line-->
-<!--All you need is a blank line-->
     
    + [ArgoCD (homelab)](https://github.com/adavarski/homelab)
    + [FluxCD (homelab)](https://github.com/adavarski/homelab-flux)
