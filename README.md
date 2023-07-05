@@ -140,8 +140,9 @@
    + https://github.com/adavarski/vagrant-haproxy-consul-template
    + https://github.com/adavarski/vagrant-ansible-hadoop-spark
    + https://github.com/adavarski/vagrant-ansible-postgresql-ha-patroni-consul
-   + https://github.com/adavarski/zabbix-ansible
    + https://github.com/adavarski/postgres-ha
+   + https://github.com/adavarski/zabbix-ansible
+   + https://github.com/adavarski/homelab-gitlab-ansible
    + https://github.com/adavarski/Hashicorp-Nomad-Consul-Ansible
 </details>
 
