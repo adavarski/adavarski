@@ -2,7 +2,7 @@
 #### Playgrounds/labs/demos/etc.
 
 <details>
-<summary>GitOps (k8s)</summary>
+<summary>GitOps -> k8s (ArgoCD, FluxCD, Tekton, GitHub Actions) </summary>
 <!--All you need is a blank line-->
     
    + [ArgoCD (homelab)](https://github.com/adavarski/homelab)
@@ -15,7 +15,7 @@
 </details>
 
 <details>
-<summary>GitLab/Jenkins CI/CD (k8s)</summary>
+<summary>GitLab/Jenkins CI/CD -> k8s</summary>
 <!--All you need is a blank line-->
     
    + [GitLab + k8s](https://github.com/adavarski/gitlab-cicd-k8s)
