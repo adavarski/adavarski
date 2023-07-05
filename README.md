@@ -105,7 +105,7 @@
 <details>
 <summary>Example k8s apps (KinD, k3d, minikube local dev envs + Skaffold)</summary>
 <!--All you need is a blank line-->
-   + [Skaffold + Kustomize](https://github.com/adavarski/k3d-skaffold-kustomize-demo)
+   + https://github.com/adavarski/k3d-skaffold-kustomize-demo
    + https://github.com/adavarski/k3d-node-app-example
    + https://github.com/adavarski/kind-python-app-example
    + https://github.com/adavarski/kind-registry-nginx-app-example
