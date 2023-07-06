@@ -105,10 +105,11 @@
 </details>
 
 <details>
-<summary>Example k8s apps (KinD, k3d, minikube local dev envs + Skaffold)</summary>
+<summary>Example k8s apps (KinD, k3d, minikube local dev envs + Skaffold/Tilt)</summary>
 <!--All you need is a blank line-->
     
    + https://github.com/adavarski/k3d-skaffold-kustomize-demo
+   + https://github.com/adavarski/k3d-tilt-development
    + https://github.com/adavarski/k3d-node-app-example
    + https://github.com/adavarski/kind-python-app-example
    + https://github.com/adavarski/kind-registry-nginx-app-example
