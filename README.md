@@ -29,6 +29,7 @@
     
    + [AWS EKS](https://github.com/adavarski/AWS-EKS-Terraform)
    + [GCP GKE](https://github.com/adavarski/GCP-GKE-terraform-demo)
+   + [HCloud + k8s](https://github.com/adavarski/k3s-hcloud-private)
    + [VMWare + k8s](https://github.com/adavarski/k8s-vmware-terraform-kubespray)
    + [Proxmox + k8s](https://github.com/adavarski/proxmox-terraform-k8s)
 </details>
