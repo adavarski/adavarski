@@ -139,8 +139,9 @@
    +  https://github.com/adavarski/docker-smokeping-rrdtool
    +  https://github.com/adavarski/oracle12c-r2-ee
    +  https://github.com/adavarski/docker-postgresql-ha-patroni-consul-zookeeper
-   +  https://github.com/adavarski/onlineshop-php-laravel-docker
    +  https://github.com/adavarski/docker-bigdata-playground
+   +  https://github.com/adavarski/nameko-airports-trips
+   +  https://github.com/adavarski/onlineshop-php-laravel-docker
 </details>
 
 <details>
