@@ -154,6 +154,7 @@
    + https://github.com/adavarski/postgres-ha
    + https://github.com/adavarski/zabbix-ansible
    + https://github.com/adavarski/homelab-gitlab-ansible
+   + https://github.com/adavarski/almalinux-ansible-kubeadm-k8s
    + https://github.com/adavarski/Hashicorp-Nomad-Consul-Ansible
 </details>
 
