@@ -121,6 +121,7 @@
    + https://github.com/adavarski/kind-python-app-example
    + https://github.com/adavarski/kind-registry-nginx-app-example
    + https://github.com/adavarski/kind-python-microservices-app-example
+   + https://github.com/adavarski/k8s-Blockchain-Ethereum-playground
    + https://github.com/adavarski/nameko-microservices-CICD-k8s
    + https://github.com/adavarski/gRPC-go-k8s-example
    + https://github.com/adavarski/REST-go-k8s-example
