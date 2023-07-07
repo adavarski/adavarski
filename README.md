@@ -27,10 +27,10 @@
 <summary>HashiCorp Terraform (IaC -> k8s)</summary>
 <!--All you need is a blank line-->
     
-   + [AWS EKS prod](https://github.com/adavarski/AWS-EKS-Terraform)
    + [AWS EKS & KOPS demo](https://github.com/adavarski/aws-k8s-demo)
-   + [GCP GKE prod](https://github.com/adavarski/GCP-GKE-Terraform)
+   + [AWS EKS prod](https://github.com/adavarski/AWS-EKS-Terraform)
    + [GCP GKE demo](https://github.com/adavarski/GCP-GKE-terraform-demo)
+   + [GCP GKE prod](https://github.com/adavarski/GCP-GKE-Terraform)
    + [HCloud + k8s](https://github.com/adavarski/k3s-hcloud-private)
    + [VMWare + k8s](https://github.com/adavarski/k8s-vmware-terraform-kubespray)
    + [Proxmox + k8s](https://github.com/adavarski/proxmox-terraform-k8s)
