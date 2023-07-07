@@ -45,6 +45,8 @@
 <!--All you need is a blank line-->
     
    + [AWS demo](https://github.com/adavarski/DevOps-AWS-demo)
+   + [AWS EKS & Kops demo](https://github.com/adavarski/aws-k8s-demo)
+   + [AWS EKS CloudFormation demo](https://github.com/adavarski/aws-eks-cloudformation-demo)
    + [GCP demo](https://github.com/adavarski/DevOps-GCP-demo)
    + [Azure demo](https://github.com/adavarski/DevOps-AZURE-demo)
    + [OCI (OKE)](https://github.com/adavarski/OCI-Terraform-OKE-k8s-demo)
@@ -57,6 +59,7 @@
 
    + https://github.com/adavarski/HomeLab-k8s-DevSecOps-playground
    + https://github.com/adavarski/DevSecOps-full-integration-chain
+   + https://github.com/adavarski/DevSecOps-pipelines
    + https://github.com/adavarski/DevSecOps-pipeline-python
    + https://github.com/adavarski/python-network-hacks
 </details>
@@ -94,6 +97,7 @@
     
   + https://github.com/adavarski/k8s-UAP
   + https://github.com/adavarski/Databricks-Snowflake-ML-playground
+  + https://github.com/adavarski/h2o-jupyter-docker
 </details>
 
 <details>
@@ -121,6 +125,7 @@
    + https://github.com/adavarski/gRPC-go-k8s-example
    + https://github.com/adavarski/REST-go-k8s-example
    + https://github.com/adavarski/proglog
+   + https://github.com/adavarski/minikube-gitlab-development
    + https://github.com/adavarski/GitLab-microservices-k8s
    + https://github.com/adavarski/microservices-python-k8s-playground
    + https://github.com/adavarski/MERN-microservices-k8s-playground
