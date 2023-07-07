@@ -111,6 +111,7 @@
    + https://github.com/adavarski/tilt-microservices-demo
    + https://github.com/adavarski/kind-tilt-development
    + https://github.com/adavarski/k3d-tilt-development
+   + https://github.com/adavarski/kind-tilt-django-demo
    + https://github.com/adavarski/k3d-skaffold-kustomize-demo
    + https://github.com/adavarski/k3d-node-app-example
    + https://github.com/adavarski/kind-python-app-example
