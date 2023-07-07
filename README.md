@@ -154,7 +154,7 @@
    + https://github.com/adavarski/vagrant-ansible-hadoop-spark
    + https://github.com/adavarski/vagrant-ansible-postgresql-ha-patroni-consul
    + https://github.com/adavarski/postgres-ha
-   + https://github.com/adavarski/gitlab-docker-ansible-image
+   + https://github.com/adavarski/gitlab-ansible-docker-image
    + https://github.com/adavarski/postgres-ha-prod
    + https://github.com/adavarski/zabbix-ansible
    + https://github.com/adavarski/homelab-gitlab-ansible
