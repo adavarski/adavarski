@@ -46,7 +46,7 @@
 <!--All you need is a blank line-->
     
    + [AWS demo](https://github.com/adavarski/DevOps-AWS-demo)
-   + [AWS EKS & Kops demo](https://github.com/adavarski/aws-k8s-demo)
+   + [AWS EKS & KOPS demo](https://github.com/adavarski/aws-k8s-demo)
    + [AWS EKS CloudFormation demo](https://github.com/adavarski/aws-eks-cloudformation-demo)
    + [AWS UAP POC](https://github.com/adavarski/AWS-UAP)
    + [AWS SaaS POC](https://github.com/adavarski/SaaS-AWS-POC)
