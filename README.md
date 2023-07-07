@@ -47,6 +47,8 @@
    + [AWS demo](https://github.com/adavarski/DevOps-AWS-demo)
    + [AWS EKS & Kops demo](https://github.com/adavarski/aws-k8s-demo)
    + [AWS EKS CloudFormation demo](https://github.com/adavarski/aws-eks-cloudformation-demo)
+   + [AWS UAP POC](https://github.com/adavarski/AWS-UAP)
+   + [AWS SaaS POC](https://github.com/adavarski/SaaS-AWS-POC)
    + [GCP demo](https://github.com/adavarski/DevOps-GCP-demo)
    + [Azure demo](https://github.com/adavarski/DevOps-AZURE-demo)
    + [OCI (OKE)](https://github.com/adavarski/OCI-Terraform-OKE-k8s-demo)
