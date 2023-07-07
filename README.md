@@ -124,6 +124,7 @@
    + https://github.com/adavarski/nameko-microservices-CICD-k8s
    + https://github.com/adavarski/gRPC-go-k8s-example
    + https://github.com/adavarski/REST-go-k8s-example
+   + https://github.com/adavarski/Go-gRPC-app-opentelemetry-example
    + https://github.com/adavarski/proglog
    + https://github.com/adavarski/minikube-gitlab-development
    + https://github.com/adavarski/GitLab-microservices-k8s
