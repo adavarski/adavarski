@@ -109,6 +109,7 @@
 <!--All you need is a blank line-->
     
    + https://github.com/adavarski/k3d-skaffold-kustomize-demo
+   + https://github.com/adavarski/kind-tilt-development
    + https://github.com/adavarski/k3d-tilt-development
    + https://github.com/adavarski/k3d-node-app-example
    + https://github.com/adavarski/kind-python-app-example
