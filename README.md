@@ -128,6 +128,8 @@
    + https://github.com/adavarski/gRPC-go-k8s-example
    + https://github.com/adavarski/REST-go-k8s-example
    + https://github.com/adavarski/Go-gRPC-app-opentelemetry-example
+   + https://github.com/adavarski/REST-go-k8s-geolocation
+   + https://github.com/adavarski/REST-go-k8s-geolocationmock
    + https://github.com/adavarski/proglog
    + https://github.com/adavarski/minikube-gitlab-development
    + https://github.com/adavarski/GitLab-microservices-k8s
