@@ -143,6 +143,7 @@
    +  https://github.com/adavarski/docker-postgresql-ha-patroni-consul-zookeeper
    +  https://github.com/adavarski/docker-bigdata-playground
    +  https://github.com/adavarski/IRIS-C19-Analytics
+   +  https://github.com/adavarski/SaaS-Docker-POC
    +  https://github.com/adavarski/nameko-airports-trips
    +  https://github.com/adavarski/onlineshop-php-laravel-docker
 </details>
@@ -161,6 +162,7 @@
    + https://github.com/adavarski/zabbix-ansible
    + https://github.com/adavarski/homelab-gitlab-ansible
    + https://github.com/adavarski/almalinux-ansible-kubeadm-k8s
+   + https://github.com/adavarski/SaaS-Vagrant-POC
    + https://github.com/adavarski/Hashicorp-Nomad-Consul-Ansible
 </details>
 
