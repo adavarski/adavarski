@@ -8,6 +8,7 @@
    + [ArgoCD (homelab)](https://github.com/adavarski/homelab)
    + [FluxCD (homelab)](https://github.com/adavarski/homelab-flux)
    + [GitHub Actions](https://github.com/adavarski/k3d-GH-Actions)
+   + [Terraform Cloud + GitHub Actions](https://github.com/adavarski/tf-cloud-gh-actions)
    + [GitHub Actions + ArgoCD](https://github.com/adavarski/ArgoCD-GitOps-playground)
    + [Tekton + ArgoCD + Java](https://github.com/adavarski/gitops-k3d-tekton-argocd) 
    + [Tekton + ArgoCD + Go](https://github.com/adavarski/GitOps-k3d-Tekton-ArgoCD-Go)
@@ -34,7 +35,6 @@
    + [HCloud + k8s](https://github.com/adavarski/k3s-hcloud-private)
    + [VMWare + k8s](https://github.com/adavarski/k8s-vmware-terraform-kubespray)
    + [Proxmox + k8s](https://github.com/adavarski/proxmox-terraform-k8s)
-   + [TF Cloud + GH Actions](https://github.com/adavarski/tf-cloud-gh-actions)
 </details>
    
 <details>
