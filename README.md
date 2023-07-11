@@ -78,7 +78,7 @@
 </details>
 
 <details>
-<summary>Various (Istio, Consul Mesh, Keycloak, Kong API gateway, k8s VCluster, etc.)</summary>
+<summary>Various (Istio Mesh, Consul Mesh, Keycloak, Kong API gateway, k8s VCluster, etc.)</summary>
 <!--All you need is a blank line-->
     
    + https://github.com/adavarski/istio-k3d
