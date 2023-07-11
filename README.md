@@ -82,7 +82,7 @@
 <summary>Various (Istio Mesh, Consul Mesh, Keycloak, Kong API gateway, k8s VCluster, etc.)</summary>
 <!--All you need is a blank line-->
     
-   + https://github.com/adavarski/istio-k3d
+   + https://github.com/adavarski/k3d-istio
    + https://github.com/adavarski/k3s-consul-service-mesh-playground
    + https://github.com/adavarski/kind-keycloak-playground
    + https://github.com/adavarski/kind-kong-gateway-playground
