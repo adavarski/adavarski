@@ -34,6 +34,7 @@
    + [HCloud + k8s](https://github.com/adavarski/k3s-hcloud-private)
    + [VMWare + k8s](https://github.com/adavarski/k8s-vmware-terraform-kubespray)
    + [Proxmox + k8s](https://github.com/adavarski/proxmox-terraform-k8s)
+   + [TF Cloud + GH Actions](https://github.com/adavarski/tf-cloud-gh-actions)
 </details>
    
 <details>
