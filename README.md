@@ -12,6 +12,8 @@
    + [GitHub Actions + ArgoCD](https://github.com/adavarski/ArgoCD-GitOps-playground)
    + [Tekton + ArgoCD + Java](https://github.com/adavarski/gitops-k3d-tekton-argocd) 
    + [Tekton + ArgoCD + Go](https://github.com/adavarski/GitOps-k3d-Tekton-ArgoCD-Go)
+   + [Argo + VCluster](https://github.com/adavarski/k3d-argo-vclusters-playground)
+
 </details>
 
 <details>
@@ -79,7 +81,7 @@
 </details>
 
 <details>
-<summary>Various (Istio Mesh, Consul Mesh, Keycloak, Kong API gateway, k8s VCluster, etc.)</summary>
+<summary>Various (Istio Mesh, Consul Mesh, Keycloak, Kong API gateway, etc.)</summary>
 <!--All you need is a blank line-->
     
    + https://github.com/adavarski/k3d-istio
@@ -87,7 +89,6 @@
    + https://github.com/adavarski/k3s-consul-service-mesh-playground
    + https://github.com/adavarski/kind-keycloak-playground
    + https://github.com/adavarski/kind-kong-gateway-playground
-   + https://github.com/adavarski/k3d-argo-vclusters-playground
 </details>
 
 <details>
