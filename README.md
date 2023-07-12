@@ -12,7 +12,7 @@
    + [GitHub Actions + ArgoCD](https://github.com/adavarski/ArgoCD-GitOps-playground)
    + [Tekton + ArgoCD + Java](https://github.com/adavarski/gitops-k3d-tekton-argocd) 
    + [Tekton + ArgoCD + Go](https://github.com/adavarski/GitOps-k3d-Tekton-ArgoCD-Go)
-   + [Argo + VCluster](https://github.com/adavarski/k3d-argo-vclusters-playground)
+   + [ArgoCD + VCluster](https://github.com/adavarski/k3d-argo-vclusters-playground)
 
 </details>
 
