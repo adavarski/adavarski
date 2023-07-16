@@ -81,7 +81,7 @@
 </details>
 
 <details>
-<summary>Various (Istio Mesh, Consul Mesh, Keycloak, Kong API gateway, Loki, etc.)</summary>
+<summary>Various (Istio Mesh, Consul Mesh, Keycloak, Kong API gateway, Loki, EFK, etc.)</summary>
 <!--All you need is a blank line-->
     
    + https://github.com/adavarski/k3d-istio
@@ -90,6 +90,7 @@
    + https://github.com/adavarski/kind-keycloak-playground
    + https://github.com/adavarski/kind-kong-gateway-playground
    + https://github.com/adavarski/kind-grafana-loki-playground
+   + https://github.com/adavarski/kind-efk-stack
 </details>
 
 <details>
