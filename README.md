@@ -86,7 +86,8 @@
     
    + https://github.com/adavarski/k3d-istio
    + https://github.com/adavarski/k3d-istio-canary-and-blue-green
-   + https://github.com/adavarski/kind-istio-multicluster-playground
+   + https://github.com/adavarski/kind-istio-multicluster-primary-remote-playground
+   + https://github.com/adavarski/kind-istio-multicluster-multi-primary-playground
    + https://github.com/adavarski/k3s-consul-service-mesh-multicluster-playground
    + https://github.com/adavarski/kind-keycloak-playground
    + https://github.com/adavarski/kind-kong-gateway-playground
