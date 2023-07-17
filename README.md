@@ -81,7 +81,7 @@
 </details>
 
 <details>
-<summary>Various (Istio Mesh, Consul Mesh, Keycloak, Kong API gateway, Loki, EFK, etc.)</summary>
+<summary>Istio Mesh & Consul Mesh</summary>
 <!--All you need is a blank line-->
     
    + https://github.com/adavarski/k3d-istio
@@ -89,6 +89,12 @@
    + https://github.com/adavarski/kind-istio-multicluster-primary-remote-playground
    + https://github.com/adavarski/kind-istio-multicluster-multi-primary-playground
    + https://github.com/adavarski/k3s-consul-service-mesh-multicluster-playground
+</details>
+
+<details>
+<summary>Various (Keycloak, Kong API gateway, Loki, EFK, etc.)</summary>
+<!--All you need is a blank line-->
+    
    + https://github.com/adavarski/kind-keycloak-playground
    + https://github.com/adavarski/kind-kong-gateway-playground
    + https://github.com/adavarski/kind-grafana-loki-playground
