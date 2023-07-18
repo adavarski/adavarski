@@ -17,7 +17,7 @@
 </details>
 
 <details>
-<summary>GitLab/Jenkins CI/CD -> k8s</summary>
+<summary>GitLab/Jenkins CI/CD (k8s)</summary>
 <!--All you need is a blank line-->
     
    + [GitLab + k8s](https://github.com/adavarski/gitlab-cicd-k8s)
@@ -27,7 +27,7 @@
 </details>
 
 <details>
-<summary>HashiCorp Terraform (IaC -> k8s)</summary>
+<summary>HashiCorp Terraform (IaC:k8s)</summary>
 <!--All you need is a blank line-->
     
    + [AWS EKS & KOPS demo](https://github.com/adavarski/aws-k8s-demo)
@@ -40,14 +40,14 @@
 </details>
    
 <details>
-<summary>Crossplane (IaC -> k8s)</summary>
+<summary>Crossplane (IaC:k8s)</summary>
 
    + https://github.com/adavarski/k3d-crossplane-vcluster
    + https://github.com/adavarski/k3d-crossplane-vcluster-playground
 </details>
 
 <details>
-<summary>Public Clouds (Demos -> VMs & k8s & etc.)</summary>
+<summary>Public Clouds (Demos:VMs & k8s & etc.)</summary>
 <!--All you need is a blank line-->
     
    + [AWS demo](https://github.com/adavarski/DevOps-AWS-demo)
@@ -72,7 +72,7 @@
 </details>
 
 <details>
-<summary>HashiCorp Vault (Security)</summary>
+<summary>HashiCorp Vault</summary>
 <!--All you need is a blank line-->
 
    + https://github.com/adavarski/k8s-vault-secrets
