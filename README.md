@@ -168,6 +168,7 @@
    +  https://github.com/adavarski/SaaS-Docker-POC
    +  https://github.com/adavarski/nameko-airports-trips
    +  https://github.com/adavarski/onlineshop-php-laravel-docker
+   +  https://github.com/adavarski/docker-kong-konga-keycloak-playground
 </details>
 
 <details>
