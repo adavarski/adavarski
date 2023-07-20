@@ -14,6 +14,7 @@
    + [Tekton + ArgoCD + Go](https://github.com/adavarski/GitOps-k3d-Tekton-ArgoCD-Go)
    + [ArgoCD + VCluster](https://github.com/adavarski/k3d-argo-vclusters-playground)
    + [ArgoCD multicluster (homelab)](https://github.com/adavarski/carbon-homelab)
+   + [Flux multicluster (homelab)](https://github.com/adavarski/flux-multicluster-gitops)
 
 </details>
 
