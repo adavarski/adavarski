@@ -83,7 +83,7 @@
 </details>
 
 <details>
-<summary> Multi-cluster: Istio Mesh, Consul Mesh, Linkerd </summary>
+<summary>Multi-cluster: Istio Mesh, Consul Mesh, Linkerd </summary>
 <!--All you need is a blank line-->
     
    + https://github.com/adavarski/k3d-istio
