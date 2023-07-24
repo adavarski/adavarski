@@ -91,7 +91,7 @@
    + https://github.com/adavarski/kind-istio-multicluster-primary-remote-playground
    + https://github.com/adavarski/kind-istio-multicluster-multi-primary-playground
    + https://github.com/adavarski/k3s-consul-service-mesh-multicluster-playground
-   + https://github.com/adavarski/kind-linkerd-multicluster
+   + https://github.com/adavarski/kind-linkerd-multicluster (WIP)
 </details>
 
 <details>
@@ -102,7 +102,7 @@
    + https://github.com/adavarski/kind-kong-gateway-playground
    + https://github.com/adavarski/kind-grafana-loki-playground
    + https://github.com/adavarski/kind-efk-stack
-   + https://github.com/adavarski/kind-multicluster-thanos-prometheus-grafana-playground
+   + https://github.com/adavarski/kind-multicluster-thanos-prometheus-grafana-playground (WIP)
 </details>
 
 <details>
