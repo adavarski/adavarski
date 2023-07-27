@@ -133,7 +133,7 @@
 </details>
 
 <details>
-<summary>Example k8s apps (KinD, k3d, minikube local dev envs + Tilt/Skaffold)</summary>
+<summary>k8s apps examples (KinD, k3d, minikube local dev envs + Tilt/Skaffold)</summary>
 <!--All you need is a blank line-->
     
    + https://github.com/adavarski/tilt-microservices-demo
