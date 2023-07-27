@@ -100,9 +100,9 @@
     
    + https://github.com/adavarski/kind-keycloak-playground
    + https://github.com/adavarski/kind-kong-gateway-playground
-   + https://github.com/adavarski/kind-grafana-loki-playground
+   + https://github.com/adavarski/kind-grafana-loki-playground (WIP)
    + https://github.com/adavarski/kind-efk-stack
-   + https://github.com/adavarski/kind-multicluster-thanos-prometheus-grafana-playground 
+   + https://github.com/adavarski/kind-multicluster-thanos-prometheus-grafana-playground (WIP)
    + https://github.com/adavarski/kind-linkerd-lgtm (WIP)
 </details>
 
@@ -138,7 +138,7 @@
    + https://github.com/adavarski/tilt-microservices-demo
    + https://github.com/adavarski/kind-tilt-development
    + https://github.com/adavarski/k3d-tilt-development
-   + https://github.com/adavarski/kind-tilt-django-demo
+   + https://github.com/adavarski/kind-tilt-django-demo (WIP)
    + https://github.com/adavarski/k3d-skaffold-kustomize-demo
    + https://github.com/adavarski/k3d-node-app-example
    + https://github.com/adavarski/kind-python-app-example
