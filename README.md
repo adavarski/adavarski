@@ -5,8 +5,9 @@
 <summary>GitOps -> k8s (ArgoCD, FluxCD, Tekton, GitHub Actions) </summary>
 <!--All you need is a blank line-->
     
-   + [ArgoCD (homelab)](https://github.com/adavarski/homelab-argocd)
-   + [FluxCD (homelab)](https://github.com/adavarski/homelab-flux)
+   + [ArgoCD (homelab:KinD)](https://github.com/adavarski/homelab-argocd)
+   + [ArgoCD (homelab:k3d)](https://github.com/adavarski/homelab)
+   + [FluxCD (homelab:k3d)](https://github.com/adavarski/homelab-flux)
    + [GitHub Actions](https://github.com/adavarski/k3d-GH-Actions)
    + [Terraform Cloud + GitHub Actions](https://github.com/adavarski/tf-cloud-gh-actions)
    + [GitHub Actions + ArgoCD](https://github.com/adavarski/ArgoCD-GitOps-playground)
