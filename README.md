@@ -95,14 +95,15 @@
 </details>
 
 <details>
-<summary>Various (Keycloak, Kong API gateway, Loki, EFK, Thanos: HA Prometheus, etc.)</summary>
+<summary>Various (Keycloak, Kong API gateway, Loki, EFK, Thanos: HA Prometheus, LGTM Stack, etc.)</summary>
 <!--All you need is a blank line-->
     
    + https://github.com/adavarski/kind-keycloak-playground
    + https://github.com/adavarski/kind-kong-gateway-playground
    + https://github.com/adavarski/kind-grafana-loki-playground
    + https://github.com/adavarski/kind-efk-stack
-   + https://github.com/adavarski/kind-multicluster-thanos-prometheus-grafana-playground (WIP)
+   + https://github.com/adavarski/kind-multicluster-thanos-prometheus-grafana-playground 
+   + https://github.com/adavarski/kind-linkerd-lgtm (WIP)
 </details>
 
 <details>
