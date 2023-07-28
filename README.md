@@ -96,13 +96,14 @@
 </details>
 
 <details>
-<summary>k8s Observability (EFK, Thanos: HA Prometheus, LGTM Stack, etc.)</summary>
+<summary>k8s Observability (EFK, Thanos: HA Prometheus, LGTM Stack, Grafana, Prometheus, Loki, Tempo, Phlare, VictoriaMetrics, etc.)</summary>
 <!--All you need is a blank line-->
     
    + https://github.com/adavarski/kind-efk-stack
    + https://github.com/adavarski/kind-multicluster-thanos-prometheus-grafana-playground (WIP)
    + https://github.com/adavarski/kind-grafana-loki-playground (WIP)
    + https://github.com/adavarski/kind-linkerd-lgtm (WIP)
+   + https://github.com/adavarski/kind-argocd-playground (WIP)
      
 </details>
 
