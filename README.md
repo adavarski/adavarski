@@ -96,11 +96,12 @@
 </details>
 
 <details>
-<summary>Various (Keycloak, Kong API gateway, Loki, EFK, Thanos: HA Prometheus, LGTM Stack, etc.)</summary>
+<summary>Various (Keycloak, Kong API gateway, Blockchain, Loki, EFK, Thanos: HA Prometheus, LGTM Stack, etc.)</summary>
 <!--All you need is a blank line-->
     
    + https://github.com/adavarski/kind-keycloak-playground
    + https://github.com/adavarski/kind-kong-gateway-playground
+   + https://github.com/adavarski/k8s-Blockchain-Ethereum-playground
    + https://github.com/adavarski/kind-grafana-loki-playground (WIP)
    + https://github.com/adavarski/kind-efk-stack
    + https://github.com/adavarski/kind-multicluster-thanos-prometheus-grafana-playground (WIP)
@@ -145,7 +146,6 @@
    + https://github.com/adavarski/kind-python-app-example
    + https://github.com/adavarski/kind-registry-nginx-app-example
    + https://github.com/adavarski/kind-python-microservices-app-example
-   + https://github.com/adavarski/k8s-Blockchain-Ethereum-playground
    + https://github.com/adavarski/nameko-microservices-CICD-k8s
    + https://github.com/adavarski/gRPC-go-k8s-example
    + https://github.com/adavarski/REST-go-k8s-example
