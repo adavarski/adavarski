@@ -96,7 +96,7 @@
 </details>
 
 <details>
-<summary>k8s Observability(EFK, Thanos: HA Prometheus, LGTM Stack, etc.)</summary>
+<summary>k8s Observability (EFK, Thanos: HA Prometheus, LGTM Stack, etc.)</summary>
 <!--All you need is a blank line-->
     
    + https://github.com/adavarski/kind-grafana-loki-playground (WIP)
