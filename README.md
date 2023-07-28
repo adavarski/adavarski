@@ -108,7 +108,7 @@
 </details>
 
 <details>
-<summary>Various (Keycloak, Kong API gateway, Blockchain, etc.)</summary>
+<summary>Various (Keycloak, Kong API gateway, Blockchain:Ethereum, etc.)</summary>
 <!--All you need is a blank line-->
     
    + https://github.com/adavarski/kind-keycloak-playground
