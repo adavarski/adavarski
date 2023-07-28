@@ -96,7 +96,7 @@
 </details>
 
 <details>
-<summary>k8s Observability (EFK, Thanos: HA Prometheus, LGTM Stack, Grafana, Prometheus, Loki, Tempo, VictoriaMetrics, etc.)</summary>
+<summary>k8s Observability (EFK Stack, Thanos: HA Prometheus, LGTM Stack, Grafana, Prometheus, Loki, Tempo, VictoriaMetrics, etc.)</summary>
 <!--All you need is a blank line-->
     
    + https://github.com/adavarski/kind-efk-stack
