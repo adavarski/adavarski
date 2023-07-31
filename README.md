@@ -75,7 +75,7 @@
 </details>
 
 <details>
-<summary>HashiCorp Vault</summary>
+<summary>HashiCorp Vault (Security)</summary>
 <!--All you need is a blank line-->
 
    + https://github.com/adavarski/k8s-vault-secrets
