@@ -108,11 +108,12 @@
 </details>
 
 <details>
-<summary>Various (Keycloak, Kong API gateway, Blockchain:Ethereum, Harbor, etc.)</summary>
+<summary>Various (Keycloak, Kong API gateway, VCluster, Blockchain:Ethereum, Harbor, etc.)</summary>
 <!--All you need is a blank line-->
     
    + https://github.com/adavarski/kind-keycloak-playground
    + https://github.com/adavarski/kind-kong-gateway-playground
+   + https://github.com/adavarski/kind-vcluster-flux-playground
    + https://github.com/adavarski/k8s-Blockchain-Ethereum-playground
    + https://github.com/adavarski/kind-harbor-playground
 
