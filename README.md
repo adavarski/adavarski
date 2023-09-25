@@ -88,7 +88,7 @@
 <!--All you need is a blank line-->
 
    + https://github.com/adavarski/kind-istio-playground
-   + https://github.com/adavarski/k3d-istio
+   + https://github.com/adavarski/k3d-istio-playground
    + https://github.com/adavarski/k3d-istio-canary-and-blue-green
    + https://github.com/adavarski/kind-istio-multicluster-primary-remote-playground (WIP:thanos)
    + https://github.com/adavarski/kind-istio-multicluster-multi-primary-playground (WIP:thanos)
