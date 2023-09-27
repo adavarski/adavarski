@@ -133,6 +133,7 @@
 <!--All you need is a blank line-->
     
   + https://github.com/adavarski/k8s-UAP
+  + https://github.com/adavarski/AWS-UAP
   + https://github.com/adavarski/Databricks-Snowflake-ML-playground
   + https://github.com/adavarski/h2o-jupyter-docker
 </details>
