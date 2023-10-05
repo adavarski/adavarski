@@ -101,7 +101,7 @@
 <!--All you need is a blank line-->
     
    + https://github.com/adavarski/kind-efk-stack
-   + https://github.com/adavarski/kind-multicluster-thanos-prometheus-grafana-playground (WIP)
+   + https://github.com/adavarski/kind-multicluster-thanos-prometheus-grafana-playground 
    + https://github.com/adavarski/kind-grafana-loki-playground 
    + https://github.com/adavarski/kind-linkerd-lgtm (WIP)
    + https://github.com/adavarski/kind-argocd-playground (ArgoCD: Prometheus, Loki, Tempo, Phlare, VictoriaMetrics, Grafana)
