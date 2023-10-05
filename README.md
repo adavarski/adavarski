@@ -114,7 +114,7 @@
     
    + https://github.com/adavarski/kind-keycloak-playground
    + https://github.com/adavarski/kind-kong-gateway-playground
-   + https://github.com/adavarski/kind-vcluster-flux-playground (WIP)
+   + https://github.com/adavarski/kind-vcluster-flux-playground 
    + https://github.com/adavarski/k8s-Blockchain-Ethereum-playground
    + https://github.com/adavarski/kind-harbor-playground 
 
