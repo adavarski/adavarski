@@ -105,7 +105,6 @@
    + https://github.com/adavarski/kind-multicluster-thanos-prometheus-grafana-playground 
    + https://github.com/adavarski/kind-grafana-loki-playground 
    + https://github.com/adavarski/kind-linkerd-lgtm (WIP)
-   + 
    + https://github.com/adavarski/kind-monitoring-prometheus-loki-tempo-phlare-victoriametrics-grafana-playground
      
 </details>
