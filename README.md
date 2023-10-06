@@ -16,7 +16,7 @@
    + [ArgoCD + VCluster](https://github.com/adavarski/k3d-argo-vclusters-playground)
    + [ArgoCD multicluster (homelab)](https://github.com/adavarski/carbon-homelab)
    + [Flux multicluster (homelab)](https://github.com/adavarski/flux-multicluster-gitops)
-   + [ArgoCD sync-wave (monitoring)](https://github.com/adavarski/kind-argocd-playground)
+   + [ArgoCD sync-wave (monitoring stacks)](https://github.com/adavarski/kind-argocd-playground)
 
 </details>
 
