@@ -73,7 +73,7 @@
    + https://github.com/adavarski/DevSecOps-pipelines
    + https://github.com/adavarski/DevSecOps-pipeline-python
    + https://github.com/adavarski/DevSecOps-GitHub-Actions-python-app
-   + https://github.com/adavarski/DevSecOps-GitHub-Actions-node
+   + https://github.com/adavarski/DevSecOps-GitHub-Actions-node-app
    + https://github.com/adavarski/python-network-hacks
 </details>
 
