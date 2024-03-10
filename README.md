@@ -149,6 +149,7 @@
 
    + https://github.com/adavarski/OpenShift4-CRC-development
    + https://github.com/adavarski/OpenShift-CRC-remote
+   + https://github.com/adavarski/OpenShift-CRC-Playground
    + https://github.com/adavarski/ocp4-vmware-terraform-lab
 </details>
 
