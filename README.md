@@ -114,7 +114,7 @@
 </details>
 
 <details>
-<summary>Various (Keycloak, Kong API gateway, VCluster, Blockchain:Ethereum, Harbor, etc.)</summary>
+<summary>Various (Keycloak, Kong API gateway, VCluster, Blockchain:Ethereum, Harbor, Weblogic, etc.)</summary>
 <!--All you need is a blank line-->
     
    + https://github.com/adavarski/kind-keycloak-playground
