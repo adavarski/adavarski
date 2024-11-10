@@ -184,6 +184,7 @@
 <!--All you need is a blank line-->
 
    +  https://github.com/adavarski/docker-prometheus
+   +  https://github.com/adavarski/go-monitoring-prometheus
    +  https://github.com/adavarski/docker-smokeping-rrdtool
    +  https://github.com/adavarski/oracle12c-r2-ee
    +  https://github.com/adavarski/docker-postgresql-ha-patroni-consul-zookeeper
