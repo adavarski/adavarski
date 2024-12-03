@@ -89,7 +89,7 @@
 </details>
 
 <details>
-<summary>Multi-cluster (k8s): Istio Mesh, Consul Mesh, Linkerd </summary>
+<summary>Mesh & Multi-cluster (k8s): Istio Mesh, Consul Mesh, Linkerd </summary>
 <!--All you need is a blank line-->
 
    + https://github.com/adavarski/kind-istio-playground
