@@ -180,6 +180,7 @@
    + https://github.com/adavarski/GitLab-microservices-k8s
    + https://github.com/adavarski/microservices-python-k8s-playground
    + https://github.com/adavarski/MERN-microservices-k8s-playground
+   + https://github.com/adavarski/k3d-dotNet-microservices
 </details>
 
 <details>
