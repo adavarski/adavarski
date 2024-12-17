@@ -110,6 +110,7 @@
    + https://github.com/adavarski/kind-grafana-loki-playground 
    + https://github.com/adavarski/kind-linkerd-lgtm (WIP)
    + https://github.com/adavarski/kind-monitoring-prometheus-loki-tempo-phlare-victoriametrics-grafana-playground
+   + https://github.com/adavarski/kind-victoriametrics
    + https://github.com/adavarski/go-monitoring-prometheus-graphana
    + https://github.com/adavarski/apps-prometehus-graphana-monitoring
 
