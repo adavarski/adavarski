@@ -62,7 +62,7 @@
    + [Azure demo](https://github.com/adavarski/DevOps-AZURE-demo)
    + [OCI (OKE)](https://github.com/adavarski/OCI-Terraform-OKE-k8s-demo)
    + [Hetzner](https://github.com/adavarski/Hetzner-Case-Study)
-   + [Hetzner+kybespary](https://github.com/adavarski/kubespray-hcloud)
+   + [Hetzner+kubespary](https://github.com/adavarski/kubespray-hcloud)
 </details>
 
 <details>
